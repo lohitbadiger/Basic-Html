@@ -1,0 +1,50 @@
+p{
+    color: red;
+}
+body{
+    background-color: bisque;
+}
+div{
+    background-color: rgb(184, 101, 0);
+    width: 100px;
+    height: 100px;
+    margin: 100px;
+
+
+}
+h3{
+    background-color: rgb(184, 101, 0);
+    width: 100px;
+    height: 100px;
+    /* padding:10%; */
+    padding-left: 100%;
+    padding:200px;
+  
+
+}
+h4{
+    margin-left:200px ;
+    margin-top:200px ;
+    margin-bottom:200px ;
+
+
+}
+
+body{
+    overflow-x:scroll;
+}
+h5{
+background-color: red;
+padding-left: 800px;
+}
+
+p{
+    border-width: 10px;
+    border-color: rgb(119, 0, 255);
+    border-style: inset ;
+
+    border: dashed 10px cadetblue ;
+    border-radius: 10px;
+    border-bottom: 10px red solid;
+    border-left: solid rgb(90, 190, 152) 10px;
+}
